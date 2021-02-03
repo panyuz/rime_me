@@ -1,0 +1,52 @@
+# Rime table
+#@/db_name	wubi86_jidian.txt
+#@/db_type	tabledb
+#@/rime_version	1.5.3
+#@/tick	166
+了	b	4
+夺	df	2
+夺标	dfsf	2
+感觉	dgip	4
+非常	djip	2
+太小	dyih	4
+一	g	2
+靛	geph	2
+一下	gggh	2
+还是	gijg	2
+速度	gkya	2
+治理	icgj	2
+没有	imde	2
+测试	imya	2
+圆	lkmi	2
+图书馆治理	lnqg	2
+图书馆	lnqn	11
+快	nnw	2
+这	p	2
+字体	pbws	4
+写作	pgwt	2
+我	q	4
+鑫	qqq	2
+的	r	4
+看	rhf	2
+看看	rhrh	2
+要	s	4
+顶戴	sdfa	2
+可以	skny	4
+酩酊大醉	ssds	2
+私人	tcww	4
+兽	ulgk	6
+好	vb	2
+黛	wal	1
+儚	walq	3
+公共图书馆	walq	2
+公	wc	1
+公共	wcaw	7
+个	wh	2
+伙	wo	2
+从来	wwgo	2
+经	x	2
+就是	yijg	2
+魔	yssc	8
+图书馆治理	enclnqg	1
+公共图书馆	encwalq	1
+魔兽	encysul	1
